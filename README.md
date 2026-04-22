@@ -133,7 +133,7 @@ Identificado principalmente durante a entrada da brisa marítima na cidade.
 
 Formados na atmosfera a partir de reações gasosas.  
 **Traçador principal:** Enxofre (S), indicando a presença de sulfatos formados a partir do SO2.  
-
+<br>
 As diferenças entre os traçadores utilizados nos estudos refletem a evolução das técnicas analíticas, a mudança no perfil das emissões de São Paulo e o aprimoramento na identificação de fontes específicas. Enquanto estudos pioneiros focavam em elementos geológicos e metais pesados, pesquisas recentes incorporaram compostos carbonáceos e assinaturas químicas mais refinadas para separar fontes veiculares e de queima de biomassa.  
 As principais diferenças por estudo e fonte são detalhadas abaixo:  
 
